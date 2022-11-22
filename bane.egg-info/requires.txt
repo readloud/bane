@@ -1,0 +1,13 @@
+PySocks
+bs4
+cfscrape
+colorama
+dnspython
+furl
+future
+google
+kamene==0.32
+mysqlcp
+requests
+stem
+xtelnet
